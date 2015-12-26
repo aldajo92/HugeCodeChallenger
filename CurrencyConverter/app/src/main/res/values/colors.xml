@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="hint">#B8B8B8</color>
+
+    <color name="cardview_light_background_trans">#11FAFAFA</color>
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+
+
+    <color name="theme_primary">#3f51b5</color>
+    <color name="theme_primary_dark">#303f9f</color>
+    <color name="theme_primary_light">#7986cb</color>
+
+    <color name="theme_accent_1">#00b0ff</color>
+    <color name="theme_accent_1_light">#8ad4fa</color>
+
+    <color name="theme_accent_2">#e91e63</color>
+
+    <!-- Theme colors -->
+    <color name="theme_default_primary">#536dfe</color>
+    <color name="theme_default_primary_dark">#3f51b5</color>
+    <color name="theme_accent">#cddc39</color>
+    <color name="wastheme_accent">#ff4081</color>
+    <color name="theme_window_background">#ECECEC</color>
+
+    <!-- general text colors -->
+    <color name="text">#212121</color>
+    <color name="secondary">#727272</color>
+
+
+    <!-- button colors -->
+    <color name="btn_background">#d0ecf5</color>
+    <color name="btn_background_2">#007777</color>
+
+    <color name="dividers">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="toreview">#71A038</color>
+    <color name="blue_btn_bg_color">#AEDEF4</color>
+    <color name="blue_btn_bg_pressed_color">#96BFD2</color>
+    <color name="gray_btn_bg_color">#D0D0D0</color>
+    <color name="gray_btn_bg_pressed_color">#B6B6B6</color>
+    <color name="button_text_color">#000000</color>
+    <color name="darker_red">#dd0000</color>
+    <color name="darker_green">#3b9050</color>
+
+    <color name="study">#df9d4d</color>
+    <color name="study_focus">#ffAd4d</color>
+    <color name="study_pressed">#ffBd5d</color>
+
+    <color name="practice">#EDEDEC</color>
+    <color name="practice_focus">#EDEDEC</color>
+    <color name="practice_pressed">#EDEDEC</color>
+</resources>

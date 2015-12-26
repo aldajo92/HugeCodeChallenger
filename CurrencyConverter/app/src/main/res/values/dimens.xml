@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_flag">25dp</dimen>
+    <dimen name="text_size_input">30dp</dimen>
+    <dimen name="width_name_flag">60dp</dimen>
+</resources>

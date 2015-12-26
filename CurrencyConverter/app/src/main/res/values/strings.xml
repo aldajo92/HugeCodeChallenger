@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="gbp_name">GBP</string>
+    <string name="eur_name">EUR</string>
+    <string name="gpy_name">JPY</string>
+    <string name="brl_name">BRL</string>
+    <string name="designed_by">Designed By: @aldajo92</string>
+</resources>

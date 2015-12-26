@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view0"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                card_view:cardCornerRadius="4dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/appIcon1"
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"
+                        android:layout_margin="8dp"
+                        android:src="@drawable/uk"
+                        android:transitionName="appIcon" />
+                    <TextView
+                        android:layout_width="@dimen/width_name_flag"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:textSize="@dimen/text_size_flag"
+                        android:text="@string/gbp_name"/>
+                    <TextView
+                        android:id="@+id/tv_gbp"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="HOla"/>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view1"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                card_view:cardCornerRadius="4dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/appIcon2"
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"
+                        android:layout_margin="8dp"
+                        android:src="@drawable/eur"
+                        android:transitionName="appIcon" />
+                    <TextView
+                        android:layout_width="@dimen/width_name_flag"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:textSize="@dimen/text_size_flag"
+                        android:text="@string/eur_name"/>
+                    <TextView
+                        android:id="@+id/tv_eur"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="HOla"/>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view2"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                card_view:cardCornerRadius="4dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/appIcon3"
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"
+                        android:layout_margin="8dp"
+                        android:src="@drawable/jp"
+                        android:transitionName="appIcon" />
+                    <TextView
+                        android:layout_width="@dimen/width_name_flag"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:textSize="@dimen/text_size_flag"
+                        android:text="@string/gpy_name"/>
+                    <TextView
+                        android:id="@+id/tv_jpy"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="HOla"/>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/card_view3"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+                card_view:cardCornerRadius="4dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:id="@+id/appIcon4"
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"
+                        android:layout_margin="8dp"
+                        android:src="@drawable/brl"
+                        android:transitionName="appIcon" />
+                    <TextView
+                        android:layout_width="@dimen/width_name_flag"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:textSize="@dimen/text_size_flag"
+                        android:text="@string/brl_name"/>
+                    <TextView
+                        android:id="@+id/tv_brl"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:text="HOla"/>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                xmlns:card_view="http://schemas.android.com/apk/res-auto"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="220dp"
+                card_view:cardCornerRadius="4dp">
+
+                <com.github.mikephil.charting.charts.BarChart
+                    android:id="@+id/chart1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_above="@+id/seekBar1" />
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
