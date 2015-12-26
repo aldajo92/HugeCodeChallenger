@@ -31,8 +31,8 @@ A chart displaying the results for each currency.  Each result should update the
 
 ![alt tag](https://github.com/aldajo92/HugeCodeChallenger/blob/master/CurrencyConverter/example2.gif)
 
-Using data from http://api.fixer.io/
-Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
+* Using data from http://api.fixer.io/
+* Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
 
 ## Requirements
 
