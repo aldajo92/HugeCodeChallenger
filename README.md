@@ -25,13 +25,21 @@ The app should have at least one text input to enter the number of dollars.  You
 The results for each currency.
 
 ### Expected Output ­(Bonus)
-A chart displaying the results for each currency.  Each result should update the screen as each value is returned from the api call. Each bar should animate from a value of 0 to its value. 
+A chart displaying the results for each currency.  Each result should update the screen as each value is returned from the api call. Each bar should animate from a value of 0 to its value.
+
+# Solution
 
 ![alt tag](https://github.com/aldajo92/HugeCodeChallenger/blob/master/CurrencyConverter/example2.gif)
 
 Using data from http://api.fixer.io/
+Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
 
-# Requirements
+## Requirements
 
 * Android 4.2+
-* Android Studio 1.4.1
+* Android-Studio 1.4.1
+
+## Instalation
+
+* On Adroid-Studio, import CurrencyConverter project.
+* go to Build -> Run'app'
