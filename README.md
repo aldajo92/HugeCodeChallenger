@@ -39,7 +39,12 @@ Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
 * Android 4.2+
 * Android-Studio 1.4.1
 
+## Import on Android Studio
+
+* Download project from https://github.com/aldajo92/HugeCodeChallenger/archive/master.zip
+* On Adroid-Studio, go to (File -> import) and select CurrencyConverter project.
+* go to (Build -> Run'app')
+
 ## Instalation
 
-* On Adroid-Studio, import CurrencyConverter project.
-* go to Build -> Run'app'
+* get the apk from 

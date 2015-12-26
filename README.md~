@@ -41,5 +41,6 @@ Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
 
 ## Instalation
 
+* Download project from https://github.com/aldajo92/HugeCodeChallenger/archive/master.zip
 * On Adroid-Studio, import CurrencyConverter project.
-* 
+* go to Build -> Run'app'
