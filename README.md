@@ -47,4 +47,4 @@ Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
 
 ## Instalation
 
-* get the apk from [Read more words!](/HugeCodeChallenger/raw/master/CurrencyConverter/CurrencyConverter.apk)
+* get the apk from [HERE!](/HugeCodeChallenger/raw/master/CurrencyConverter/CurrencyConverter.apk)
