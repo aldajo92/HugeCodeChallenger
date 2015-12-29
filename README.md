@@ -29,7 +29,7 @@ A chart displaying the results for each currency.  Each result should update the
 
 # Solution
 
-![alt tag](https://github.com/aldajo92/HugeCodeChallenger/blob/master/CurrencyConverter/example2.gif)
+![alt tag](https://github.com/aldajo92/HugeCodeChallenger/blob/master/example2.gif)
 
 * Using data from http://api.fixer.io/
 * Using MPAndroidChart from https://github.com/PhilJay/MPAndroidChart
