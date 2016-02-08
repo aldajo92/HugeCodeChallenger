@@ -47,4 +47,4 @@ A chart displaying the results for each currency.  Each result should update the
 
 ## Instalation
 
-* get the apk from [HERE!](/HugeCodeChallenger/raw/master/CurrencyConverter/CurrencyConverter.apk)
+* get the apk from [HERE!](https://github.com/aldajo92/HugeCodeChallenger/raw/master/CurrencyConverter.apk)
